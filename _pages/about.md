@@ -19,7 +19,7 @@ B.S. in Department of Artificial Intelligence
 
 ## News
 
-- **2026.04** — Diagnosing LLM-as-a-Judge reliability via Item Response Theory was accepted to **ICML 2026**.
-- **2026.04** — Belief in Authority: Impact of Authority in Multi-Agent Evaluation Framework* accepted to **ACL 2026 Findings**.
-- **2025.08** — VoiceBBQ: Investigating Effect of Content and Acoustics in Social Bias of Spoken Language Model accepted to **EMNLP 2025 Main**.
-- **2025.01** — People will agree what I think: Investigating LLM's False Consensus Effect accepted to **NAACL 2025 Findings**.
+- **2026.04** — One paper accepted to **ICML 2026**.
+- **2026.04** — One paper accepted to **ACL 2026 Findings**.
+- **2025.08** — One paper accepted to **EMNLP 2025 Main**.
+- **2025.01** — One paper accepted to **NAACL 2025 Findings**.
