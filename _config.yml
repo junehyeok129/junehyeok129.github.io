@@ -83,10 +83,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  conferences:
-    title: 'Selected Publications'
+  books:
+    title: 'Books'
   manuscripts:
     title: 'Preprints'
+  conferences:
+    title: 'Selected Publications'
 
 # Site Settings
 teaser                   :
