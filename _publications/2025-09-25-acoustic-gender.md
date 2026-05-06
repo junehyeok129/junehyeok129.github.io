@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-09-25-acoustic-gender
 date: 2025-09-25
-venue: 'Revision at TACL'
+venue: 'arXiv:2509.21125'
 paperurl: 'https://arxiv.org/abs/2509.21125'
 authors: '<b>Junhyuk Choi</b>, Jihwan Seol, Nayeon Kim, Chanhee Cho, EunBin Cho, Bugeun Kim'
 ---
